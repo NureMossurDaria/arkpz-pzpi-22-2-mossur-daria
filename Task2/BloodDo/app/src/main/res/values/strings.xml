@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BloodDo</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_donation_appointment">DonationAppointmentActivity</string>
+</resources>
